@@ -20,8 +20,8 @@ RUN mkdir -p instance log
 
 ENV PYTHONUNBUFFERED=1
 ENV APP_HOST=0.0.0.0
-ENV APP_PORT=1283
+ENV APP_PORT=9898
 
-EXPOSE 1283
+EXPOSE 9898
 
 CMD ["uv", "run", "app.py"]
