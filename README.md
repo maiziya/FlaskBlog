@@ -2,8 +2,6 @@
 
 A modern blog application built with Flask, featuring a clean UI and powerful admin tools.
 
-![FlaskBlog Light Theme](/images/Light.png)
-[Watch demo on YouTube](https://youtu.be/WyIpAlSp2RM) — [See screenshots (mobile/desktop, dark/light)](https://github.com/DogukanUrker/flaskBlog/tree/main/images)
 
 ## ✨ Features
 
@@ -25,17 +23,10 @@ A modern blog application built with Flask, featuring a clean UI and powerful ad
 
 ### Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/DogukanUrker/flaskBlog.git
-cd flaskBlog
-
 # Install app dependencies and run
 make install-app
 make run
 ```
-
-Visit `http://localhost:1283` in your browser.
 
 ### Docker
 
@@ -98,19 +89,5 @@ make clean         # Remove cache files
 **Frontend:** TailwindCSS, jQuery, Summer Note Editor \
 **Icons:** Tabler Icons
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Doğukan Ürker** \
-[Website](https://dogukanurker.com) | [Email](mailto:dogukanurker@icloud.com)
-
----
-
-⭐ If you find this project useful, please consider giving it a star!
